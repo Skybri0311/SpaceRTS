@@ -60,7 +60,7 @@ public class PawnStats : MonoBehaviour
 
     public void DealDamage()
     {
-        foreach(var c in colliders)
+        
 
     }
 
